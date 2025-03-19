@@ -12,5 +12,5 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joo-Nick&layout=compact"/>&nbsp
 </div>
