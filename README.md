@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Joo-Nick&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Joo-Nick"
+  width="600"
+  height="300"
+/>
+</a>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
